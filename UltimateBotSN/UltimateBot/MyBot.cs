@@ -12,6 +12,11 @@ namespace MyBot
     {
         
         //comes on work with me
+
+            ///עכגעכעגעגכעגכ
+            ///
+            /// הכגעגכ
+            /// 
         /// <summary>
         /// Makes the bot run a single turn.
         /// </summary>
