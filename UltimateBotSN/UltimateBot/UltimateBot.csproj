@@ -31,7 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="PirateGame">
-      <HintPath>D:\Users\matan\Documents\Visual Studio 2017\Projects\UltimateBot\UltimateBot\PirateGame.dll</HintPath>
+      <HintPath>..\..\..\..\..\Downloads\PirateGame.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
