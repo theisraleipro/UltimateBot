@@ -10,14 +10,13 @@ namespace MyBot
     /// </summary>
     public class TutorialBot : IPirateBot
     {
-       
-       
-         ///comes on work with me
+        
+        //comes on work with me
         /// <summary>
         /// Makes the bot run a single turn.
         /// </summary>
         /// <param name="game">The current game state</param>
-
+        
         Pirate collector;
         Pirate tailGuard;
         List<Pirate> bodyGuards;
